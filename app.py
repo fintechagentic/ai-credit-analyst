@@ -1815,7 +1815,7 @@ def render_footer() -> None:
     st.markdown(
         """
         <div class="footer-shell">
-            Built by Chase Nielsen — Aurora University | Data from SEC EDGAR
+            Built by Chase Nielsen | Data from SEC EDGAR
         </div>
         """,
         unsafe_allow_html=True,
